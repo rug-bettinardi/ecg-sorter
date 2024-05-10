@@ -1,3 +1,5 @@
+tensorflow
+keras
 scikit-learn
 matplotlib
 seaborn
