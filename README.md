@@ -1,4 +1,4 @@
-# ECG Sorter
+# Unsupervised ECG Classifier
  
 Design and implement an ML-based automatic electrocardiogram interpretation algorithm in python. 
 The aim is to partition electrocardiogram signals into distinct classes without cardiologist-supplied labels. 
