@@ -27,3 +27,4 @@ conda deactivate
 cd ~/ecg-sorter
 jupyter notebook
 ```
+Then double-click to open `main_notebook.ipynb`, select the correct IPython kernel (`py311-ecgsorter`), and run the notebook.
